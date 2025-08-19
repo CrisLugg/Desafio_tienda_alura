@@ -1,6 +1,5 @@
-# 🛍️ Alura Store Latam
-
-¡Bienvenido/a a **Alura Store Latam**!  
+# 🛍️ Desafío tienda Alura
+ 
 Este proyecto es una solución de análisis de datos para el desafío de ciencia de datos de Alura Latam, centrado en la exploración y visualización de datos de ventas de una tienda virtual en Latinoamérica.
 
 ---
