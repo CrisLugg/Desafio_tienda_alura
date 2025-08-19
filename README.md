@@ -44,16 +44,6 @@ El análisis utiliza datos públicos proporcionados por Alura Latam, abarcando d
 
 3. **Disfruta y explora los análisis y gráficos. Modifica el notebook para seguir explorando los datos a tu gusto.**
 
----
-
-## 🌟 Ejemplo de visualizaciones
-
-<div align="center">
-  <img src="https://imgur.com/a/iwmYvT1.png" alt="Ejemplo de gráfico de barras" width="450"/>
-  <img src="https://imgur.com/a/0ZbQ8pJ.png" alt="Ejemplo de gráfico de pastel" width="450"/>
-</div>
-
----
 
 ## 🤝 Contribuciones
 
